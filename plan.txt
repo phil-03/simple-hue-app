@@ -1,0 +1,23 @@
+Questions:
+-What is an API?
+-How do I parse JSON?
+-How does Python work with Flask?
+   -It is the framwork with which python can be used for API dev.
+-How does FlaskAPI work?
+-Port Forward new router?
+-How to connect to Hue Bridge?
+
+Tasks
+-Learn Philip's and Flask API
+-Port Forward Router
+-Setup Webserver with PI to connect with router
+-Have PI continuosly running
+-Have lights turn on when my phone connects to PI
+   >Ping for MAC address via nmap if MAC is found execute other program
+   >Import file and then use function
+   > If not found print no MAC
+
+Requirements
+-User should be able to login via browser url and shout off lights
+-Find an easer way to shut on and off lights via small app
+-Maybe integrate with another app?
